@@ -1,9 +1,9 @@
 # Hi, I'm Tebogo 👋
 
-🧠Cybersecurity student at Alison online<br/>
-🤖Programming and Comptia student at Alison online<br/>
-💊Pharmacology student at Alison online<br/>
-
+🧠Cybersecurity student at Alison online, CompTia and Coursera<br/>
+🤖Programming and Coding student<br/>
+🔐Cybersecurity, Networking student at Cisco Networking Academy<br/>
+☁️Cloud Computing student at Udemy<br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ tebogo-gift-b04978378 Vanity URL name) 
